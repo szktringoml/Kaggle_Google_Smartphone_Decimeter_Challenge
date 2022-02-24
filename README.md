@@ -1,2 +1,3 @@
 # Kaggle_Google_Smartphone_Decimeter_Challenge
-81st/810teams
+81st/810teams Bronze
+
